@@ -69,3 +69,7 @@ Route::middleware(['auth', 'isAdminAndApoteker'])->group(function () {
     Route::resource('/resep-obat', ResepObatController::class);
     Route::resource('/obat', ObatController::class);
 });
+
+Route::get('/coba', function () {
+    return 'Halo, ini route percobaan!';
+});
