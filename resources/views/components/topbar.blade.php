@@ -65,7 +65,7 @@
                         </div>
                     </div>
                     <div>
-                        <div class="small text-gray-500">December 12, 2019</div>
+                        <div class="small text-gray-500">December 12, 2024</div>
                         <span class="font-weight-bold">A new monthly report is ready to download!</span>
                     </div>
                 </a>
@@ -76,7 +76,7 @@
                         </div>
                     </div>
                     <div>
-                        <div class="small text-gray-500">December 7, 2019</div>
+                        <div class="small text-gray-500">December 7, 2024</div>
                         $290.29 has been deposited into your account!
                     </div>
                 </a>
@@ -87,7 +87,7 @@
                         </div>
                     </div>
                     <div>
-                        <div class="small text-gray-500">December 2, 2019</div>
+                        <div class="small text-gray-500">December 2, 2024</div>
                         Spending Alert: We've noticed unusually high spending for your account.
                     </div>
                 </a>
